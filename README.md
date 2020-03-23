@@ -1,4 +1,4 @@
-# Transformer with Pytorch
+# A Simple Framework for Contrastive Learning of Visual Representations with Pytorch
 
 * Pytorch Impementation [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 
